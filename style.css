@@ -1,0 +1,59 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+*
+{
+    box-sizing: border-box;
+}
+
+img
+{
+    max-width: 100%;
+    height: 350px;
+    padding: 20px 20px;
+}
+
+.Wrapper
+{
+    margin: 0 auto;
+    width: 870px;
+    height: 500px;
+
+}
+
+button
+{
+    flex-basis: 290px;
+    height: 50px;
+    font-size: x-large;
+    color: white;
+    background-color: red;    
+}
+
+.Wrap
+{
+    display: flex;
+}
+
+.Cont
+{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+#cat
+{
+    background: #0000FF;
+    height: 100%;
+    width: 50%;
+}
+#dog
+{
+    background: #008000;
+    height: 100%;
+    width: 50%
+}
